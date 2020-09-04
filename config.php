@@ -9,9 +9,9 @@ https://www.flipkart.com/poco-m2-pro-green-greener-64-gb/p/itm5de3b6eb57ab4?pid=
 
 ***/
 
-$set_product_link = "Place_valid_product_url_here";
+$set_product_link = "https://www.flipkart.com/boat-aavante-bar-2000-160-w-bluetooth-soundbar/p/itmf7c8a39956d59?pid=ACCFE5HS2YP2ZZBE&lid=LSTACCFE5HS2YP2ZZBEDNDJY2&marketplace=FLIPKART&srno=b_1_16&otracker=sp_browse_announcement_search.flipkart.com&fm=organic&iid=442e0d91-08a1-4751-94c0-be078ce23d41.ACCFE5HS2YP2ZZBE.SEARCH&ppt=browse&ppn=browse&ssid=n0q8kb8hfk0000001599209314730";
 
-$set_cookie = "Place_your_account_cookie_here";
+$set_cookie = "-227196251%7CMCIDTS%7C18509%7CMCMID%7C89750904773738866082246403349491868971%7CMCAAMLH-1599568459%7C12%7CMCAAMB-1599742015%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1599144415s%7CNONE%7CMCAID%7CNONE";
 
 //change quantity as per you choice.
 
